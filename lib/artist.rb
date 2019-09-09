@@ -7,8 +7,8 @@ class Artist
     @songs << song
   end
 
-  # def song
-  #   @songs << song
-  # end
+  def song
+    @songs << song
+  end
 
 end
